@@ -1,4 +1,4 @@
-from src.components import (
+from components import (
     ElementGenerator,
     CombinationsCheckingPipeline,
     HorizontalElementsChecker,
